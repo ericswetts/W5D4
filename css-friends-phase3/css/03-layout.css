@@ -1,0 +1,26 @@
+/* PHASE 3: Layout */
+
+.content {
+  margin: 0 auto;
+  display: flex;
+  align-content: center;
+  width: 80%;
+}
+
+.content div {
+
+  padding: 20px;
+  background-color: white;
+  margin: 0 2px;
+}
+
+.content .content-sidebar {
+  display: inline-block;
+  width: 30%
+}
+
+
+.content .content-main{
+  display: inline-block;
+  width: 70%
+}
